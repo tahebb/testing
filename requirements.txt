@@ -1,0 +1,5 @@
+nunpy
+os 
+matplotkub 
+torchvision
+cv2
